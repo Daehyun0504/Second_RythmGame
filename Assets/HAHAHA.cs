@@ -5,7 +5,7 @@ using UnityEngine;
 public class HAHAHA : MonoBehaviour
 {
 
-    public int kimjihwan;
+    private string youngmiee;
     // Start is called before the first frame update
     void Start()
     {
