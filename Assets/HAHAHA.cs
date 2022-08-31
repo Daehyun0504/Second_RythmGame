@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class HAHAHA : MonoBehaviour
 {
+
+    public int kimjihwan;
     // Start is called before the first frame update
     void Start()
     {
