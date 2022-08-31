@@ -6,6 +6,7 @@ public class HAHAHA : MonoBehaviour
 {
 
     private string youngmiee;
+    public int jaehun;
     // Start is called before the first frame update
     void Start()
     {
